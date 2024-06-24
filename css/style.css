@@ -1,0 +1,487 @@
+/* titulo */
+
+/* selector{propiedad: valor;} */
+
+
+/* para sacar espacios en la pagina */
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* INDEX.html */
+
+/* logo */
+
+
+h1{ color: rgba(15, 126, 15, 0.803); background-color: rgba(238, 205, 122, 0.866);
+    font-family: "IBM Plex Serif", serif;
+    font-weight: 700;
+    font-style: oblique; 
+    font-size: 60px;
+     padding: 30px;
+    border-radius: 180px;
+    vertical-align: auto;
+    border: 6px solid green;
+    margin-left: 30px;
+}
+
+/* NAV Lista navegador */
+
+
+
+ul li{ list-style: none;}
+
+
+
+header h1, header div, nav,li{
+    display: inline-block;
+    margin-top: 20px;
+    margin: 20px;
+    vertical-align: middle;
+}
+
+
+body{
+    min-height: 100vh;
+    background-color: blanchedalmond;
+    background-size: cover;
+   background-position: center;
+
+}
+
+a{
+    text-decoration: none;
+    color: darkgreen;
+
+}
+
+ .golden{
+
+    background-color: rgb(237, 202, 112);
+    font-size: 20px;
+    padding: 10px 30px;
+    font-family: cursive;
+   color: darkgreen;
+   text-decoration: none;
+   
+
+
+}
+
+.golden:hover{
+
+    background-color: blanchedalmond;
+
+}
+
+.position{
+    position: fixed;
+    top: 0px;
+    z-index: 100;
+}
+  
+
+
+/* TITULO */
+
+main{
+    margin-top: 200px;
+}
+
+ div h2{
+    text-align: center;
+    color: rgb(35, 120, 35);
+    font-family: cursive;
+    font-size: 80px;
+    
+   
+    
+}
+
+/* Descripcion */
+
+
+.descripcion{
+    color: rgb(40, 150, 40);
+        font-family: "Kalam", cursive;
+        font-size: 25px;
+       text-align: center;
+       padding: auto;
+       justify-content: center;
+       font-weight: 400;
+       margin-left: 30%;
+    }
+/* Carousel */
+    
+    .slide{
+        margin-top: 100px;
+        margin-right: 100px;
+        margin-left: 100px;
+    }
+    
+   .slide img{
+    height: 65vh;
+    width: 65vh;
+   }
+
+header div img{vertical-align: middle;
+
+}
+
+
+    
+    
+div h2, div{ margin-bottom: 100px;}
+
+/* mapa */
+
+.lugar{
+    text-align: center;
+color: rgb(40, 150, 40);
+font-family: cursive;
+font-size: 50px;
+margin-top: 10px;
+margin-bottom: 100px;
+margin-left: 30%;
+
+}
+
+iframe{
+    display: block;
+margin-left: auto;
+margin-right: auto;
+width: 40%;
+}
+
+
+/* FOOTER */
+
+#footer{
+    background-color: rgb(50, 148, 50); 
+     min-height: 100vh;
+    background-size: cover;
+   background-position: center;
+
+}
+
+
+.inicio{
+    color: rgba(15, 126, 15, 0.803); background-color: rgba(238, 205, 122, 0.866);
+    font-family: "IBM Plex Serif", serif;
+    font-weight: 700;
+    font-style: oblique; 
+    font-size: 60px;
+     padding: 30px;
+    border-radius: 180px;
+    width: 150px;
+    border: 6px solid green;
+    margin: auto  ;
+    margin-top: 50px;
+   
+  
+}
+ .estamos{
+    text-align: center;
+    color: blanchedalmond;
+    font-family: cursive;
+    font-size: 70px;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    }
+
+    .suscribite{
+        color: blanchedalmond;
+    font-size: 25px;
+    }
+ 
+    .twitter{
+        width: 90px;
+        height: 90px;
+    }
+
+    .instagram{
+        width: 90px;
+        height: 90px;
+    }
+ .whatsapp{
+    width: 90px;
+    height: 90px;
+    position: fixed;
+    bottom: 200px;
+    z-index: 100;
+    margin-right: 110px;
+    
+    
+ }
+
+ 
+ 
+ 
+
+ h3{
+    color: blanchedalmond;
+    font-size: 35px;
+    
+      font-family: "Roboto Slab", serif;
+      font-optical-sizing: auto;
+      font-weight: <weight>;
+      font-style: normal;
+     
+    }
+   
+   
+footer{
+    background-color: rgb(237, 186, 108);
+    padding-top: 50px;}
+   
+
+
+.redessociales{
+    padding-left: 50px;
+    
+    padding-left: 1px;
+}
+
+ 
+
+/* NOSOTROS.html */
+
+/* imagen Outfit */
+
+
+
+
+.tela{
+    width: 300px;
+    height: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+
+
+}
+
+
+
+.moda{
+    width: 300px;
+    height: 250px;
+    margin-top: -190px;
+    margin-right: 200px;
+ 
+}
+
+
+.parrafo-moda{
+    width: 500px;
+    height: 200px;
+    color: rgb(38, 122, 38);
+    padding: auto;
+text-align: center;
+font-family: cursive;
+font-size: 40px;
+margin-left: 10px;
+}
+
+.verde{
+    width: 300px;
+    height: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right:auto;}
+
+
+
+.fotociudad{
+     width: 300px;
+    height: 250px;
+    margin-top: -190px;
+    margin-right: 200px;}
+   
+
+
+.parrafo-cuadros{
+    width: 500px;
+    height: 200px;
+    color: rgb(38, 122, 38);
+   padding: auto;
+text-align: center;
+font-family: cursive;
+font-size: 40px;
+margin-left: 50px;
+}
+
+
+
+.parrafo-productos{
+    width: 500px;
+    height: 20px;
+    color: rgb(38, 122, 38);
+    padding: auto;
+text-align: center;
+font-family: cursive;
+font-size: 40px;
+
+}
+
+
+.beige{
+    width: 300px;
+    height: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right:auto}
+
+
+
+
+   .mantel{
+        width: 300px;
+        height: 250px;
+        margin-top: -190px;
+        margin-right: 200px;}
+    
+
+
+/* GALERIA*/
+
+/* Galeria Bootstrap */
+.position{
+    position: fixed;
+    top: 0px;
+    z-index: 100;
+}
+
+
+
+#galeria .col-lg-4{
+    margin: 0 !important;
+    padding: 25px;
+}
+
+#galeria img{
+    width: 100%;
+    height: 400px;
+}
+
+#galeria img:hover{
+    border: 5px solid #f7f7f7; 
+}
+
+
+
+
+.presentacion{
+
+    color: rgb(38, 122, 38);
+  
+text-align: center;
+font-family: cursive;
+text-align: center;
+font-size: 70px;
+margin-top: 200px;
+margin-bottom: 100px;
+
+}
+
+p{width: 500px;
+    height: 200px;
+    color: rgb(38, 122, 38);
+margin-top: 50px;
+text-align: center;
+font-family: cursive;
+font-size: 50px;
+
+
+
+}
+
+
+ .foto{
+   flex-basis: 100%;
+    height: 300px;
+
+ }  
+ #galeria img:hover{
+border: 10px solid #f7f7f7}
+
+
+
+
+
+/* Media  Queries */
+
+/* Mobile */
+
+@media (max-width:900px){
+    .position{
+        position: static;
+    }}
+
+
+
+@media (max-width:500px){
+    .descripcion {
+
+        padding: auto;
+        margin-left: auto;
+        text-align: justify;
+        font-size: 20px;
+        margin-left: 0;
+        
+       
+     }}
+     
+     
+
+
+    @media (max-width:700px){
+        .lugar {
+            font-size: 25px;
+            margin-left: auto;
+            margin-bottom: 0;
+            text-align: justify;
+        } }
+   @media (max-width:500px){
+            iframe {
+                width: 80%;
+                    display: block;
+                margin-left: auto;
+                margin-right: auto;
+                width: 40%;
+                }
+            }
+            }
+   @media (max-width:500px){
+              div h2 {
+                font-size: 70px;}}
+
+                
+
+   
+                
+     @media (max-width:500px){
+                   .estamos {
+                      font-size: 60px;}}
+
+/* Tablet */
+
+ 
+
+@media (min-width:350px){
+    .whatsapp{
+        right: 90px;
+    }}
+
+
+    @media(max-width:500px){
+        .golden{
+            background-color: blanchedalmond ;
+            text-align: justify;
+            display: block;
+    }}
+
+    
+    
